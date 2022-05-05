@@ -1,10 +1,9 @@
-Hi, I’m @SusaTyrniluoto
+Hi, I’m visual artist @SusaTyrniluoto
 
-I’m currently learning Python and Fullstack-web-dev
+I’m currently working with art projects and learning Python
 
-Reach me at:
+www.tyrniluoto.fi
 
-- https://twitter.com/Queen_Susa
 <!---
 SusaTyrniluoto/SusaTyrniluoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
