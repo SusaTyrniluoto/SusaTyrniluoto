@@ -1,6 +1,6 @@
 Hi, I’m visual artist @SusaTyrniluoto
 
-I’m currently working with art projects and learning Python
+I’m currently working with art projects and also learning Python
 
 www.tyrniluoto.fi
 
