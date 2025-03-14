@@ -1,10 +1,15 @@
-Hi, I am visual artist @SusaTyrniluoto
+Hi! I'm a visual artist, photographer, and visual designer who's currently diving deeper into the world of coding and web development.
 
-I am using traditional fine art methods like drawing, painting (oil and acrylic), digital image design and printing (Photoshop, Lightroom, vector graphics, fine art printing, large format printing, ceramic glass printing), sculpture (bronze sculptures, VR-assisted 3D modelling, Rhinoceros), video production, animation in 2D and 3D.
+I'm familiar with platforms like Ghost, WordPress, Outsystems, and Bubble, and have created several websites using these tools. Additionally, I have practical experience with programming languages and web development technologies including C, Python, Swift, JavaScript, HTML, CSS, and visual programming environments like VUO and Max. I've also done small projects using React and Typescript.
 
-I am familiar with following programmin languages and development environments: vuo.org, Max8, Outsystems.com, Pure Data. I am currently studying Python, Arduino (C-language), Blender sculpting
+Languages:
+- Finnish: native, excellent communication skills
+- English: excellent written, good spoken
+- Swedish: good written, fair spoken
 
-More info at www.tyrniluoto.fi
+Links:
+Artist pages: tyrniluoto.fi
+Githup Pages: https://susatyrniluoto.github.io
 
 <!---
 SusaTyrniluoto/SusaTyrniluoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
