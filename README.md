@@ -8,8 +8,8 @@ Languages:
 - Swedish: good written, fair spoken
 
 Links:
-Artist pages: tyrniluoto.fi
-Githup Pages: https://susatyrniluoto.github.io
+- Artist pages: [tyrniluoto.fi](https://tyrniluoto.fi)
+- Githup Pages: [https://susatyrniluoto.github.io](https://susatyrniluoto.github.io)
 
 <!---
 SusaTyrniluoto/SusaTyrniluoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
