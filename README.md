@@ -1,8 +1,14 @@
-Hi! I'm a visual artist, photographer, and visual designer who's currently diving deeper into the world of coding and web development.
+Hi! I'm a visual artist, photographer, and visual designer who's currently exploring the world of coding and web development.
 
-I'm familiar with platforms like Ghost, WordPress, Outsystems, and Bubble, and have created several websites using these tools. Additionally, I have practical experience with programming languages and web development technologies including C, Python, Swift, JavaScript, HTML, CSS, and visual programming environments like VUO and Max. I've also done small projects using React and Typescript.
+Tech & Web Skills:
+- Platforms: Ghost, WordPress, Outsystems, Bubble (I have created several websites using these tools).
 
-Languages:
+Programming Languages:
+- Python, C, Swift, JavaScript (basic skills)
+- HTML, CSS (moderate skills)
+- Visual programming: VUO, Max (basic skills)
+
+Languages (spoken and written):
 - Finnish: native, excellent communication skills
 - English: excellent written, good spoken
 - Swedish: good written, fair spoken
@@ -10,8 +16,3 @@ Languages:
 Links:
 - Artist pages: [tyrniluoto.fi](https://tyrniluoto.fi)
 - Githup Pages: [https://susatyrniluoto.github.io](https://susatyrniluoto.github.io)
-
-<!---
-SusaTyrniluoto/SusaTyrniluoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
